@@ -4,15 +4,16 @@ subtitle: Engineering is a Delight
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Our passion
-  text: >
-    We love to create things.  
+  text: >-
+    We love to create things.\
 
-    Explore possibilities using components and tools at hand.
+    Explore possibilities using components and tools at hand.\
+
 
     But always come to a workable solution in terms of technical feasibility timing and budget.
 intro:
   heading: What we offer
-  text: " "
+  text: test
 products:
   - image: img/illustrations-coffee.svg
     text: "Dirk:
