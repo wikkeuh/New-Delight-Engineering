@@ -15,8 +15,11 @@ intro:
   heading: What we offer
   text: test
 products:
-  - image: img/illustrations-coffee.svg
-    text: "Dirk:
+  - image: img/office-1209640_640.jpg
+    text: "**Consulting**
+
+
+      Dirk:
 
       Project management and Systems & Test team lead for  image
       sensor-related projects since 1996.
@@ -28,7 +31,7 @@ products:
       Electronic design: \vSchematics, Layout, Follow up on production,
       Debug, ..
 
-      Xenics, Caeleste\n"
+      Xenics, Caeleste"
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
