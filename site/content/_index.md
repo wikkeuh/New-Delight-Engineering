@@ -1,16 +1,16 @@
 ---
 title: New Delight Engineering
 subtitle: Engineering is a Delight
-image: /img/home-jumbotron.jpg
+image: img/gears-1236578_1920.jpg
 blurb:
   heading: Our passion
   text: >-
-    We love to create things.\
+    We love to **create** things.\
 
-    Explore possibilities using components and tools at hand.\
+    Explore **possibilities** using components and tools at hand.
 
 
-    But always come to a workable solution in terms of technical feasibility timing and budget.
+    But always come to a workable **solution** in terms of technical feasibility timing and budget.
 intro:
   heading: What we offer
   text: test
