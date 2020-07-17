@@ -11,6 +11,9 @@ blurb:
 
 
     But always come to a workable **solution** in terms of technical feasibility timing and budget.
+  body: We love to **create** things. Explore **possibilities** using components
+    and tools at hand. But always come to a workable **solution** in terms of
+    technical feasibility timing and budget.
 intro:
   heading: What we offer
   text: test
