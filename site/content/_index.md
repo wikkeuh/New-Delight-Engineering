@@ -11,9 +11,9 @@ blurb:
 
 
     But always come to a workable **solution** in terms of technical feasibility timing and budget.
-  body: We love to **create** things. Explore **possibilities** using components
-    and tools at hand. But always come to a workable **solution** in terms of
-    technical feasibility timing and budget.
+  body: We love to create things. Explore possibilities using components and tools
+    at hand. But always come to a workable solution in terms of technical
+    feasibility timing and budget.
 intro:
   heading: What we do
   text: test
@@ -46,6 +46,7 @@ products:
       Electronic design: Schematics, Layout, Follow up on production, Debug, ..
 
       Xenics, Caeleste
+    heading: Consulting
   - image: img/daniel-mccullough-fpfq_trr2y-unsplash.jpg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
@@ -55,6 +56,7 @@ products:
       Mainly in the field of image sensors
 
       Full development via our eco-system: partners for digital design, software development and mechanical design. 
+    heading: Fixed price project
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
