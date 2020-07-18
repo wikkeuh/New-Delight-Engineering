@@ -15,8 +15,9 @@ blurb:
     and tools at hand. But always come to a workable **solution** in terms of
     technical feasibility timing and budget.
 intro:
-  heading: What we offer
+  heading: What we do
   text: test
+  body: " "
 products:
   - image: img/office-1209640_640.jpg
     text: "**Consulting**
@@ -35,11 +36,25 @@ products:
       Debug, ..
 
       Xenics, Caeleste"
-  - image: /img/illustrations-coffee-gear.svg
+    body: >
+      Project management and Systems & Test team lead for  image sensor-related
+      projects since 1996.
+
+      IMEC, Fillfactory, Cypress Semiconductor, Xenics, Caeleste
+
+
+      Electronic design: Schematics, Layout, Follow up on production, Debug, ..
+
+      Xenics, Caeleste
+  - image: img/daniel-mccullough-fpfq_trr2y-unsplash.jpg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+    body: >
+      Mainly in the field of image sensors
+
+      Full development via our eco-system: partners for digital design, software development and mechanical design. 
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
