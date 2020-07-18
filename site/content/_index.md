@@ -22,7 +22,7 @@ intro:
 
     We also offer management services to support image-sensor related projects in the domains of characterization, production testing, space qualification, space application and scientific measurement systems.
 products:
-  - image: img/office-1209640_640.jpg
+  - image: img/consulting.jpg
     text: "**Consulting**
 
 
@@ -50,7 +50,7 @@ products:
 
       Xenics, Caeleste
     heading: Consulting
-  - image: img/daniel-mccullough-fpfq_trr2y-unsplash.jpg
+  - image: img/plannen.jpg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
