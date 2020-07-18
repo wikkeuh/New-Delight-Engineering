@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Body", name: "body", widget: "text"}]}
           - {label: "Products", name: products, widget: list, fields: [
-              {label: Heading, name: heading, widget: string}
+              {label: Heading, name: heading, widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Body", name: "body", widget: "text"}]}
           - {label: "Values", name: "values", widget: "object", fields: [
