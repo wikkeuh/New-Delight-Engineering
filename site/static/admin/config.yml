@@ -19,9 +19,9 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Body", name: "body", widget: "text"}]}
           - {label: "Logos", name: logos, widget: object, fields: [
-              {label: "Logo 1", name: "image1", widget: "image"},
-              {label: "Logo 2", name: "image2", widget: "image"},
-              {label: "Logo 3", name: "image3", widget: "image"}]}
+              {label: "logo1", name: "logo1", widget: "image"},
+              {label: "logo2", name: "logo2", widget: "image"},
+              {label: "logo3", name: "logo3", widget: "image"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Body", name: "body", widget: "text"}]}
