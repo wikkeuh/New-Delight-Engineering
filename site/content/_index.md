@@ -16,6 +16,10 @@ blurb:
   body: We love to <b>create</b> things. Explore <b>possibilities</b> using
     components and tools at hand. But always come to a workable <b>solution</b>
     in terms of technical feasibility timing and budget.
+logos:
+  image1: img/clear_xenics_logo_transparent.png
+  image2: img/download.png
+  image3: img/cypress-logo_tcm23-3179284.png
 intro:
   heading: What we do
   text: test
