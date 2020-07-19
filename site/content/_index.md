@@ -13,9 +13,9 @@ blurb:
 
 
     But always come to a workable **solution** in terms of technical feasibility timing and budget.
-  body: We love to <b>create</b> things. Explore <b>possibilities</b> using
-    components and tools at hand. But always come to a workable <b>solution</b>
-    in terms of technical feasibility timing and budget.
+  body: We love to create things. Explore possibilities using components and tools
+    at hand. But always come to a workable solution in terms of technical
+    feasibility timing and budget.
 logos:
   image1: img/clear_xenics_logo_transparent.png
   image2: img/download.png
