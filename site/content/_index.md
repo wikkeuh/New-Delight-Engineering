@@ -20,6 +20,9 @@ logos:
   image1: img/clear_xenics_logo_transparent.png
   image2: img/download.png
   image3: img/cypress-logo_tcm23-3179284.png
+  logo1: img/clear_xenics_logo_transparent.png
+  logo2: img/cypress-logo_tcm23-3179284.png
+  logo3: img/download.png
 intro:
   heading: What we do
   text: test
