@@ -11,7 +11,7 @@ values:
       velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
       est laborum.
-    imageUrl: img/image-11702-e1511782806324.jpg
+    imageUrl: img/caeleste.jpg
   - heading: Imec
     text: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
