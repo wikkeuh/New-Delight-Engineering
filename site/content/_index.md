@@ -1,8 +1,6 @@
 ---
 title: New Delight Engineering
-subtitle: We love to create things. Explore possibilities using components and
-  tools at hand. But always come to a workable solution in terms of technical
-  feasibility timing and budget.
+subtitle: We love to create things.
 image: img/gears-1236578_1920.jpg
 blurb:
   heading: Our passion
@@ -32,7 +30,7 @@ products:
 
       Xenics, Caeleste
     heading: Consulting
-  - image: img/plannen.jpg    
+  - image: img/plannen.jpg
     body: >
       Mainly in the field of image sensors
 
