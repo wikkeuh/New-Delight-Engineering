@@ -42,13 +42,13 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
+      - file: "site/content/experience/_index.md"
+        label: "experience Page"
         name: "values"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Values
+          - label: Experience
             name: values
             widget: list
             fields:
