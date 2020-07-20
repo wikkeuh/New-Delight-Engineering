@@ -2,15 +2,6 @@
 title: New Delight Engineering
 subtitle: We love to create things.
 image: img/gears-1236578_1920.jpg
-blurb:
-  heading: Our passion
-  body: We love to create things. Explore possibilities using components and tools
-    at hand. But always come to a workable solution in terms of technical
-    feasibility timing and budget.
-logos:
-  logo1: img/clear_xenics_logo_transparent.png
-  logo2: img/cypress-logo_tcm23-3179284.png
-  logo3: img/download.png
 intro:
   heading: What we do
   text: test
