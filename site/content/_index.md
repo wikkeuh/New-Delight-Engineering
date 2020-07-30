@@ -1,6 +1,6 @@
 ---
 title: Engineering is a pleasure
-subtitle: "  home"
+subtitle: " "
 image: img/probeersel2.jpg
 intro:
   heading: What we do
