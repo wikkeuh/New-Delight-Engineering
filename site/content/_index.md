@@ -1,7 +1,7 @@
 ---
 title: " d"
 subtitle: "  d"
-image: img/probeersel.jpg
+image: img/probeersel2.jpg
 intro:
   heading: What we do
   body: >-2
