@@ -1,7 +1,7 @@
 ---
-title: New Delight Engineering
-subtitle: We love to create things.
-image: img/gears-1236578_1920.jpg
+title: " d"
+subtitle: "  d"
+image: img/probeersel.jpg
 intro:
   heading: What we do
   body: >-2
